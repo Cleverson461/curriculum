@@ -10,13 +10,6 @@ a {
   color: blue;
 }
 
-/* body {
-  background: rgb(254, 254, 254);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-} */
 
 .container {
   position: relative;
